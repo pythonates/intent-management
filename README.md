@@ -4,3 +4,5 @@ This is a test android project which demonstrates the implementation of calling 
 This also demonstartes the implementation of adding views dynamically to the existing layout.
 
 ## The project is now stale
+
+## This is a second commit
